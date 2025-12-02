@@ -4,6 +4,7 @@ module testbench ();
    logic [15:0] a;
    logic [11:0] b; 
    logic [27:0]sum, expected;
+   logic signed [27:0] correct;
    logic [31:0] vectornum, errors;
    logic [55:0] testvectors[10000:0];
   
@@ -36,10 +37,11 @@ module testbench ();
    // check results on falling edge of clk
    always @(negedge clk)
      if (~reset) begin // skip during reset
-	$fdisplay(handle3, "|| A: %h | B: %h || Sum: %h | Epected: %h || Correct: %b | Left2: %b | Right3: %b ||", 
-		  a, b, sum, expected, sum == expected, sum[27:20] == expected[27:20], sum[11:0] == expected[11:0]);/**/
+     assign correct = $signed(a)*$signed(b);
+	$fdisplay(handle3, "|| A: %h | B: %h || Sum: %h | Correct: %h || Equals: %b ||", 
+		  a, b, sum, correct, sum == correct);/**/
 	
-	if (sum != expected) begin  // check result
+	if (sum != correct) begin  // check result
            //$display("Error: inputs = %h", {a, b});
            //$display("  outputs = %h (%h expected)",sum, expected);
            errors = errors + 1;

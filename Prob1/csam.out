@@ -1,256 +1,256 @@
-|| A: ba7c | B: ee3 || Sum: 04cd3f4 | Epected: 04d63f4 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 58d5 | B: 8e6 || Sum: d88975e | Epected: d89275e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: d19c | B: d33 || Sum: 0815e14 | Epected: 081ee14 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 04fe | B: 4ca || Sum: 017586c | Epected: 017e86c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8023 | B: e69 || Sum: 0cab85b | Epected: 0cb485b || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b428 | B: 58c || Sum: e5abde0 | Epected: e5b4de0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 80ee | B: e2b || Sum: 0e83bfa | Epected: 0e8cbfa || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 5d34 | B: 904 || Sum: d7478d0 | Epected: d7508d0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 4f43 | B: 674 || Sum: 1feec5c | Epected: 1ff7c5c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 329f | B: 8e1 || Sum: e96f5bf | Epected: e9785bf || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2581 | B: 035 || Sum: 00733b5 | Epected: 007c3b5 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 605e | B: be9 || Sum: e754f8e | Epected: e75df8e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0964 | B: 79a || Sum: 046d228 | Epected: 0476228 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0b06 | B: 65f || Sum: 045ab3a | Epected: 0463b3a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1fbc | B: 71f || Sum: 0e16bc4 | Epected: 0e1fbc4 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2234 | B: b48 || Sum: f5e0aa0 | Epected: f5e9aa0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0b6a | B: ab5 || Sum: fc305f2 | Epected: fc395f2 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b08c | B: b85 || Sum: 1636cbc | Epected: 163fcbc || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 7d52 | B: e54 || Sum: f2deae8 | Epected: f2e7ae8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 83ae | B: 367 || Sum: e587502 | Epected: e590502 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2304 | B: 81e || Sum: eeb6a78 | Epected: eebfa78 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 7701 | B: 596 || Sum: 2982f96 | Epected: 298bf96 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f1a0 | B: 840 || Sum: 06ed800 | Epected: 06f6800 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b962 | B: 62c || Sum: e4b98d8 | Epected: e4c28d8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 822c | B: 500 || Sum: d8a4c00 | Epected: d8adc00 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1e92 | B: 3af || Sum: 0700bce | Epected: 0709bce || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 6a69 | B: 6b2 || Sum: 2c7d302 | Epected: 2c87302 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 4410 | B: 6aa || Sum: 1c502a0 | Epected: 1c592a0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 54ca | B: f90 || Sum: fda57a0 | Epected: fdae7a0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 5840 | B: 478 || Sum: 189ce00 | Epected: 18a5e00 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1cf6 | B: ec9 || Sum: fdc4126 | Epected: fdcd126 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: be84 | B: 820 || Sum: 2032080 | Epected: 203b080 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 6e2a | B: a3b || Sum: d83d7ae | Epected: d8467ae || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 21eb | B: 5ab || Sum: 0bfaef9 | Epected: 0c03ef9 || Correct: 0 | Left2: 0 | Right3: 1 ||
-|| A: d974 | B: 624 || Sum: f12bc50 | Epected: f134c50 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: ba5e | B: f06 || Sum: 0437034 | Epected: 0440034 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9d2a | B: 33a || Sum: ec08984 | Epected: ec11984 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b12a | B: 956 || Sum: 20cce1c | Epected: 20d5e1c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1994 | B: 8f0 || Sum: f4acac0 | Epected: f4b5ac0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 4145 | B: 8c8 || Sum: e2845e8 | Epected: e28d5e8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1553 | B: 3f2 || Sum: 0538176 | Epected: 0542176 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 5d43 | B: fd7 || Sum: ff08045 | Epected: ff11045 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 417e | B: 33d || Sum: 0d38506 | Epected: 0d41506 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 26ad | B: 593 || Sum: 0d70657 | Epected: 0d79657 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 265a | B: 8bd || Sum: ee8f072 | Epected: ee98072 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 01f8 | B: a8a || Sum: ff4afb0 | Epected: ff53fb0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: a8bb | B: bda || Sum: 169783e | Epected: 16a083e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 4be2 | B: d56 || Sum: f3547ec | Epected: f35d7ec || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f6cd | B: 805 || Sum: 048ea01 | Epected: 0496a01 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: e744 | B: 8d1 || Sum: 0b11e84 | Epected: 0b1ae84 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 136e | B: a80 || Sum: f949300 | Epected: f952300 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1199 | B: 569 || Sum: 05e94c1 | Epected: 05f34c1 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 857c | B: 108 || Sum: f8117e0 | Epected: f81a7e0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: c826 | B: ca1 || Sum: 0bbb7e6 | Epected: 0bc47e6 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 6a5b | B: e43 || Sum: f469fd1 | Epected: f471fd1 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f180 | B: 301 || Sum: fd3e180 | Epected: fd47180 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f40d | B: 015 || Sum: ffe7511 | Epected: fff0511 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 18a6 | B: 577 || Sum: 086232a | Epected: 086b32a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: fb4f | B: 1d2 || Sum: ff6e5ce | Epected: ff775ce || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8fe6 | B: 6e1 || Sum: cfc4d26 | Epected: cfcdd26 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f1c3 | B: 5a6 || Sum: faef372 | Epected: faf9372 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 3ce7 | B: 034 || Sum: 00bceec | Epected: 00c5eec || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: abe3 | B: f31 || Sum: 0437373 | Epected: 0440373 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 738f | B: 543 || Sum: 25f796d | Epected: 260096d || Correct: 0 | Left2: 0 | Right3: 1 ||
-|| A: 99f1 | B: 6cd || Sum: d495bfd | Epected: d49ebfd || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f699 | B: fc8 || Sum: 0017e88 | Epected: 0020e88 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: d211 | B: 1f0 || Sum: fa660f0 | Epected: fa700f0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: e5b4 | B: 987 || Sum: 0a9a5ec | Epected: 0aa35ec || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0160 | B: 9f4 || Sum: ff71f80 | Epected: ff7af80 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: adb6 | B: 227 || Sum: f4e52ba | Epected: f4ee2ba || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: ac5b | B: 717 || Sum: dae692d | Epected: daef92d || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f5d3 | B: 022 || Sum: ffe1606 | Epected: ffea606 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8a8f | B: a1a || Sum: 2b42886 | Epected: 2b4b886 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: db91 | B: d19 || Sum: 0693e29 | Epected: 069be29 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f766 | B: c9a || Sum: 01cab5c | Epected: 01d3b5c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 74ba | B: acd || Sum: da08cf2 | Epected: da11cf2 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: bb0e | B: 7cc || Sum: de5e128 | Epected: de67128 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 94c7 | B: a8f || Sum: 246e129 | Epected: 2477129 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: cb95 | B: 3ab || Sum: f3f2b87 | Epected: f3fbb87 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 5cbb | B: ca6 || Sum: ec8a542 | Epected: ec93542 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: dd85 | B: 57a || Sum: f429a62 | Epected: f432a62 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: ef8f | B: a06 || Sum: 061b35a | Epected: 062435a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: bfb2 | B: 85d || Sum: 1ea83aa | Epected: 1eb13aa || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: a980 | B: e4e || Sum: 0921500 | Epected: 092a500 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 58eb | B: 1b8 || Sum: 09843e8 | Epected: 098d3e8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 20f1 | B: 520 || Sum: 0a83320 | Epected: 0a8d320 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9dd8 | B: e9d || Sum: 0878d78 | Epected: 0881d78 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 50ab | B: cd7 || Sum: f00839d | Epected: f01139d || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b156 | B: ff9 || Sum: 00196a6 | Epected: 00226a6 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: aec3 | B: 4d5 || Sum: e76d43f | Epected: e77743f || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f05c | B: dce || Sum: 021c608 | Epected: 0225608 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9d64 | B: 0de || Sum: fa9ecb8 | Epected: faa7cb8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 3994 | B: b1e || Sum: ee64b58 | Epected: ee6db58 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: fbab | B: 350 || Sum: ff11670 | Epected: ff1a670 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: c0b7 | B: 3d6 || Sum: f0cadfa | Epected: f0d3dfa || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 211b | B: 6e2 || Sum: 0e34bd6 | Epected: 0e3dbd6 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 82ba | B: c2f || Sum: 1dd8826 | Epected: 1de1826 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: a615 | B: 68a || Sum: db36552 | Epected: db40552 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: e376 | B: b4f || Sum: 085536a | Epected: 085e36a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: c6f9 | B: 2fa || Sum: f55a12a | Epected: f56412a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 516c | B: 58a || Sum: 1c27038 | Epected: 1c30038 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 4737 | B: f1a || Sum: fbf7496 | Epected: fc00496 || Correct: 0 | Left2: 0 | Right3: 1 ||
-|| A: a7c2 | B: 9fe || Sum: 211947c | Epected: 212247c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b72a | B: 8f9 || Sum: 1ff47da | Epected: 1ffd7da || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8a02 | B: e70 || Sum: 0b7cce0 | Epected: 0b85ce0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2ad5 | B: 17d || Sum: 03f2f01 | Epected: 03fbf01 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: a9f6 | B: fbf || Sum: 015488a | Epected: 015d88a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8300 | B: 34e || Sum: e625a00 | Epected: e62ea00 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 6f75 | B: 65a || Sum: 2c35d22 | Epected: 2c3ed22 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: eb2f | B: c36 || Sum: 04e5fea | Epected: 04edfea || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 38c0 | B: ca4 || Sum: f40cb00 | Epected: f415b00 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8c20 | B: 7b4 || Sum: c82d680 | Epected: c836680 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 6e6b | B: a7b || Sum: d9e0b69 | Epected: d9e8b69 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2737 | B: f6d || Sum: fe8eb6b | Epected: fe97b6b || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: e35d | B: fda || Sum: 003b032 | Epected: 0044032 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b570 | B: 317 || Sum: f190d10 | Epected: f199d10 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b83e | B: b09 || Sum: 163b42e | Epected: 164442e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: bf31 | B: c9a || Sum: 0dbbf7a | Epected: 0dc3f7a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0865 | B: 114 || Sum: 0087ce4 | Epected: 0090ce4 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8313 | B: 7c1 || Sum: c36b653 | Epected: c375653 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 7ee7 | B: 6be || Sum: 3570972 | Epected: 3579972 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: e193 | B: 714 || Sum: f28047c | Epected: f28a47c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 219f | B: 3f9 || Sum: 084f0a7 | Epected: 08590a7 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 3ff1 | B: b82 || Sum: ee03362 | Epected: ee0c362 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 7769 | B: d20 || Sum: ea82220 | Epected: ea8b220 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 090f | B: cb7 || Sum: fe1bdb9 | Epected: fe23db9 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f96b | B: c86 || Sum: 0165202 | Epected: 016e202 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 95d3 | B: 51b || Sum: de15c41 | Epected: de1ec41 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2f98 | B: cc6 || Sum: f65df90 | Epected: f666f90 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9e67 | B: 196 || Sum: f64a75a | Epected: f65375a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 63ce | B: 1a9 || Sum: 0a520fe | Epected: 0a5b0fe || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 03cf | B: 410 || Sum: 00ee8f0 | Epected: 00f78f0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: aeeb | B: fdb || Sum: 00b2809 | Epected: 00bb809 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 91ac | B: 339 || Sum: e9be34c | Epected: e9c734c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: d80d | B: 7ab || Sum: ecd1baf | Epected: ecdabaf || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 88f0 | B: 9bf || Sum: 2e80b10 | Epected: 2e89b10 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2bfa | B: 896 || Sum: eb9647c | Epected: eb9f47c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 027c | B: 1cc || Sum: 003e6d0 | Epected: 00476d0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 46c9 | B: d86 || Sum: f502236 | Epected: f50b236 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8e72 | B: ee3 || Sum: 07ddb16 | Epected: 07e6b16 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: de41 | B: 179 || Sum: fcdbdb9 | Epected: fce4db9 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9497 | B: 73e || Sum: cf58d92 | Epected: cf61d92 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1c7c | B: b57 || Sum: f7ab224 | Epected: f7b4224 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0cfd | B: 233 || Sum: 01bf067 | Epected: 01c9067 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 3077 | B: 4df || Sum: 0eb73a9 | Epected: 0ec13a9 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 760d | B: 4dd || Sum: 23d8d39 | Epected: 23e1d39 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 50bd | B: b4c || Sum: e83b71c | Epected: e84471c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1aa2 | B: fe0 || Sum: ffc1bc0 | Epected: ffcabc0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: af99 | B: 078 || Sum: fd9bfb8 | Epected: fda4fb8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 611a | B: f4b || Sum: fbac89e | Epected: fbb589e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 3ab8 | B: c09 || Sum: f16a078 | Epected: f173078 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f57d | B: 351 || Sum: fdc938d | Epected: fdd238d || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 93c5 | B: 16a || Sum: f666492 | Epected: f66f492 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 4716 | B: 702 || Sum: 1f1982c | Epected: 1f2282c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 6082 | B: 447 || Sum: 19c3c0e | Epected: 19ccc0e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9739 | B: f41 || Sum: 04d9c79 | Epected: 04e2c79 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8e58 | B: 1b9 || Sum: f3ba598 | Epected: f3c3598 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: dd27 | B: fa5 || Sum: 00bd323 | Epected: 00c6323 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1ff6 | B: 2e9 || Sum: 05c72e6 | Epected: 05d02e6 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 99ee | B: 31c || Sum: ec21008 | Epected: ec2a008 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: e1f1 | B: 6f6 || Sum: f2e2396 | Epected: f2ec396 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 905f | B: 34f || Sum: e8e1a51 | Epected: e8eaa51 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: d14c | B: 70c || Sum: eb65390 | Epected: eb6e390 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8d53 | B: 82e || Sum: 3804cea | Epected: 380ccea || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: e05e | B: aa5 || Sum: 0a8d896 | Epected: 0a96896 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: fb3b | B: 2b9 || Sum: ff273a3 | Epected: ff303a3 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1582 | B: 08f || Sum: 00b739e | Epected: 00c039e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8eac | B: 211 || Sum: f15416c | Epected: f15d16c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2c9b | B: f94 || Sum: fec9e9c | Epected: fed2e9c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: bab4 | B: 429 || Sum: edf26d4 | Epected: edfb6d4 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0a31 | B: 38f || Sum: 023b45f | Epected: 024445f || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: d187 | B: fa3 || Sum: 01051f5 | Epected: 010e1f5 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: ce51 | B: 7cf || Sum: e7b7a7f | Epected: e7c0a7f || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 26aa | B: 527 || Sum: 0c6a5e6 | Epected: 0c735e6 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 440b | B: 815 || Sum: de4bce7 | Epected: de53ce7 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: e558 | B: 707 || Sum: f441d68 | Epected: f44ad68 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9fb6 | B: bff || Sum: 180f84a | Epected: 181884a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 3ae0 | B: d5d || Sum: f643360 | Epected: f64c360 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0048 | B: 70f || Sum: 0016c38 | Epected: 001fc38 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 819b | B: a66 || Sum: 2c371c2 | Epected: 2c401c2 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 35f7 | B: 7f3 || Sum: 1ac6a75 | Epected: 1acfa75 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 334e | B: 75f || Sum: 1799bf2 | Epected: 17a2bf2 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8d57 | B: e3c || Sum: 0c9e264 | Epected: 0ca7264 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1e26 | B: a37 || Sum: f51062a | Epected: f51962a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: d6d0 | B: 169 || Sum: fc55b50 | Epected: fc5eb50 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2218 | B: e56 || Sum: fc6b410 | Epected: fc74410 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 31d5 | B: fe1 || Sum: ff96735 | Epected: ff9f735 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f71e | B: 0d7 || Sum: ff7fa32 | Epected: ff88a32 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: ea1d | B: 8c2 || Sum: 09df1fa | Epected: 09e81fa || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0ab6 | B: 290 || Sum: 01ae260 | Epected: 01b7260 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0cec | B: cc1 || Sum: fd57dec | Epected: fd60dec || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0a9d | B: 613 || Sum: 03fe7a7 | Epected: 04077a7 || Correct: 0 | Left2: 0 | Right3: 1 ||
-|| A: f05e | B: 0b8 || Sum: ff43390 | Epected: ff4c390 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8f87 | B: 931 || Sum: 2fd37d7 | Epected: 2fdc7d7 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 5ada | B: 8d5 || Sum: d743762 | Epected: d74c762 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 282a | B: 91b || Sum: eea866e | Epected: eeb166e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8523 | B: bb5 || Sum: 20ee2bf | Epected: 20f72bf || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: ac33 | B: f51 || Sum: 038b923 | Epected: 0394923 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 156a | B: 6c2 || Sum: 0902654 | Epected: 090b654 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: faac | B: 73f || Sum: fd8d454 | Epected: fd96454 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 7aa2 | B: c20 || Sum: e243c40 | Epected: e24cc40 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 082b | B: d02 || Sum: fe70f56 | Epected: fe78f56 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: c853 | B: d5b || Sum: 092ac81 | Epected: 0933c81 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 5e4b | B: 8da || Sum: d5d63de | Epected: d5df3de || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: d3e5 | B: c5c || Sum: 0a0024c | Epected: 0a0924c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f358 | B: d33 || Sum: 022e288 | Epected: 0237288 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 653e | B: 22e || Sum: 0dc1d24 | Epected: 0dcad24 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2f5b | B: b0b || Sum: f14b1e9 | Epected: f1541e9 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 67db | B: 37a || Sum: 1687f5e | Epected: 1690f5e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9249 | B: f88 || Sum: 032ddc8 | Epected: 0336dc8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 7583 | B: 61c || Sum: 2cd5c54 | Epected: 2cdec54 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9c7f | B: 8ea || Sum: 2c08416 | Epected: 2c11416 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b4e9 | B: d65 || Sum: 0c314ed | Epected: 0c3a4ed || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: c17b | B: 1cf || Sum: f8e5d75 | Epected: f8eed75 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 94ac | B: 586 || Sum: dae9e08 | Epected: daf2e08 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 5ca5 | B: d86 || Sum: f1a0f5e | Epected: f1a8f5e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1026 | B: 2b1 || Sum: 02ae646 | Epected: 02b7646 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: aa1a | B: 31f || Sum: ef35726 | Epected: ef3e726 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 03a8 | B: 7df || Sum: 01c3758 | Epected: 01cc758 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: fda1 | B: 7d1 || Sum: fecd771 | Epected: fed7771 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 0ff6 | B: 807 || Sum: f802fba | Epected: f80bfba || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: c1cb | B: ef6 || Sum: 0401312 | Epected: 040a312 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: ec7e | B: e2a || Sum: 02340ac | Epected: 023d0ac || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 5d1a | B: 6e4 || Sum: 280f728 | Epected: 2818728 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: b531 | B: 5e7 || Sum: e45d437 | Epected: e467437 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 2cbe | B: 741 || Sum: 143fe3e | Epected: 1448e3e || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: c1fa | B: 3e6 || Sum: f0da49c | Epected: f0e349c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 8bb1 | B: 128 || Sum: f78f4a8 | Epected: f7984a8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 7007 | B: df8 || Sum: f1be1c8 | Epected: f1c71c8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9388 | B: 2b4 || Sum: eda3ba0 | Epected: edacba0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 6b05 | B: 6db || Sum: 2dd1b47 | Epected: 2ddab47 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f422 | B: 819 || Sum: 05d3752 | Epected: 05dc752 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 76fa | B: f40 || Sum: fa63480 | Epected: fa6c480 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: d474 | B: e05 || Sum: 055ae44 | Epected: 0563e44 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 6ecd | B: 78b || Sum: 343244f | Epected: 343c44f || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 90bc | B: 4f9 || Sum: dd626dc | Epected: dd6b6dc || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 3c36 | B: c9e || Sum: f33c154 | Epected: f345154 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: fcda | B: 7a6 || Sum: fe75b5c | Epected: fe7eb5c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9c4e | B: d09 || Sum: 12704be | Epected: 12794be || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: de39 | B: c29 || Sum: 0812321 | Epected: 081b321 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 48c8 | B: ea5 || Sum: f9cc8e8 | Epected: f9d58e8 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 3ddc | B: 164 || Sum: 05575f0 | Epected: 05605f0 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9d5c | B: fd5 || Sum: 010018c | Epected: 010918c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: bae2 | B: c88 || Sum: 0ef3010 | Epected: 0efc010 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 645f | B: 266 || Sum: 0f02bda | Epected: 0f0bbda || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 88c7 | B: 8d9 || Sum: 35428af | Epected: 354b8af || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 3caf | B: 846 || Sum: e2a9fda | Epected: e2b1fda || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 763e | B: 615 || Sum: 2ce9716 | Epected: 2cf2716 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: f33c | B: 3f0 || Sum: fcd2c40 | Epected: fcdbc40 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 9599 | B: 3bb || Sum: e7271c3 | Epected: e7311c3 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 1f73 | B: e24 || Sum: fc4f62c | Epected: fc5862c || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 08df | B: 33a || Sum: 01c0f86 | Epected: 01c9f86 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 39d2 | B: 8da || Sum: e621cd4 | Epected: e62acd4 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: 7dba | B: 371 || Sum: 1b01d1a | Epected: 1b0ad1a || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: befc | B: 5b3 || Sum: e8ce634 | Epected: e8d7634 || Correct: 0 | Left2: 1 | Right3: 1 ||
-|| A: e7ea | B: 50b || Sum: f85f90e | Epected: f86890e || Correct: 0 | Left2: 1 | Right3: 1 ||
+|| A: ba7c | B: ee3 || Sum: 04d63f4 | Correct: 04d63f4 || Equals: 1 ||
+|| A: 58d5 | B: 8e6 || Sum: d89275e | Correct: d89275e || Equals: 1 ||
+|| A: d19c | B: d33 || Sum: 081ee14 | Correct: 081ee14 || Equals: 1 ||
+|| A: 04fe | B: 4ca || Sum: 017e86c | Correct: 017e86c || Equals: 1 ||
+|| A: 8023 | B: e69 || Sum: 0cb485b | Correct: 0cb485b || Equals: 1 ||
+|| A: b428 | B: 58c || Sum: e5b4de0 | Correct: e5b4de0 || Equals: 1 ||
+|| A: 80ee | B: e2b || Sum: 0e8cbfa | Correct: 0e8cbfa || Equals: 1 ||
+|| A: 5d34 | B: 904 || Sum: d7508d0 | Correct: d7508d0 || Equals: 1 ||
+|| A: 4f43 | B: 674 || Sum: 1ff7c5c | Correct: 1ff7c5c || Equals: 1 ||
+|| A: 329f | B: 8e1 || Sum: e9785bf | Correct: e9785bf || Equals: 1 ||
+|| A: 2581 | B: 035 || Sum: 007c3b5 | Correct: 007c3b5 || Equals: 1 ||
+|| A: 605e | B: be9 || Sum: e75df8e | Correct: e75df8e || Equals: 1 ||
+|| A: 0964 | B: 79a || Sum: 0476228 | Correct: 0476228 || Equals: 1 ||
+|| A: 0b06 | B: 65f || Sum: 0463b3a | Correct: 0463b3a || Equals: 1 ||
+|| A: 1fbc | B: 71f || Sum: 0e1fbc4 | Correct: 0e1fbc4 || Equals: 1 ||
+|| A: 2234 | B: b48 || Sum: f5e9aa0 | Correct: f5e9aa0 || Equals: 1 ||
+|| A: 0b6a | B: ab5 || Sum: fc395f2 | Correct: fc395f2 || Equals: 1 ||
+|| A: b08c | B: b85 || Sum: 163fcbc | Correct: 163fcbc || Equals: 1 ||
+|| A: 7d52 | B: e54 || Sum: f2e7ae8 | Correct: f2e7ae8 || Equals: 1 ||
+|| A: 83ae | B: 367 || Sum: e590502 | Correct: e590502 || Equals: 1 ||
+|| A: 2304 | B: 81e || Sum: eebfa78 | Correct: eebfa78 || Equals: 1 ||
+|| A: 7701 | B: 596 || Sum: 298bf96 | Correct: 298bf96 || Equals: 1 ||
+|| A: f1a0 | B: 840 || Sum: 06f6800 | Correct: 06f6800 || Equals: 1 ||
+|| A: b962 | B: 62c || Sum: e4c28d8 | Correct: e4c28d8 || Equals: 1 ||
+|| A: 822c | B: 500 || Sum: d8adc00 | Correct: d8adc00 || Equals: 1 ||
+|| A: 1e92 | B: 3af || Sum: 0709bce | Correct: 0709bce || Equals: 1 ||
+|| A: 6a69 | B: 6b2 || Sum: 2c87302 | Correct: 2c87302 || Equals: 1 ||
+|| A: 4410 | B: 6aa || Sum: 1c592a0 | Correct: 1c592a0 || Equals: 1 ||
+|| A: 54ca | B: f90 || Sum: fdae7a0 | Correct: fdae7a0 || Equals: 1 ||
+|| A: 5840 | B: 478 || Sum: 18a5e00 | Correct: 18a5e00 || Equals: 1 ||
+|| A: 1cf6 | B: ec9 || Sum: fdcd126 | Correct: fdcd126 || Equals: 1 ||
+|| A: be84 | B: 820 || Sum: 203b080 | Correct: 203b080 || Equals: 1 ||
+|| A: 6e2a | B: a3b || Sum: d8467ae | Correct: d8467ae || Equals: 1 ||
+|| A: 21eb | B: 5ab || Sum: 0c03ef9 | Correct: 0c03ef9 || Equals: 1 ||
+|| A: d974 | B: 624 || Sum: f134c50 | Correct: f134c50 || Equals: 1 ||
+|| A: ba5e | B: f06 || Sum: 0440034 | Correct: 0440034 || Equals: 1 ||
+|| A: 9d2a | B: 33a || Sum: ec11984 | Correct: ec11984 || Equals: 1 ||
+|| A: b12a | B: 956 || Sum: 20d5e1c | Correct: 20d5e1c || Equals: 1 ||
+|| A: 1994 | B: 8f0 || Sum: f4b5ac0 | Correct: f4b5ac0 || Equals: 1 ||
+|| A: 4145 | B: 8c8 || Sum: e28d5e8 | Correct: e28d5e8 || Equals: 1 ||
+|| A: 1553 | B: 3f2 || Sum: 0542176 | Correct: 0542176 || Equals: 1 ||
+|| A: 5d43 | B: fd7 || Sum: ff11045 | Correct: ff11045 || Equals: 1 ||
+|| A: 417e | B: 33d || Sum: 0d41506 | Correct: 0d41506 || Equals: 1 ||
+|| A: 26ad | B: 593 || Sum: 0d79657 | Correct: 0d79657 || Equals: 1 ||
+|| A: 265a | B: 8bd || Sum: ee98072 | Correct: ee98072 || Equals: 1 ||
+|| A: 01f8 | B: a8a || Sum: ff53fb0 | Correct: ff53fb0 || Equals: 1 ||
+|| A: a8bb | B: bda || Sum: 16a083e | Correct: 16a083e || Equals: 1 ||
+|| A: 4be2 | B: d56 || Sum: f35d7ec | Correct: f35d7ec || Equals: 1 ||
+|| A: f6cd | B: 805 || Sum: 0496a01 | Correct: 0496a01 || Equals: 1 ||
+|| A: e744 | B: 8d1 || Sum: 0b1ae84 | Correct: 0b1ae84 || Equals: 1 ||
+|| A: 136e | B: a80 || Sum: f952300 | Correct: f952300 || Equals: 1 ||
+|| A: 1199 | B: 569 || Sum: 05f34c1 | Correct: 05f34c1 || Equals: 1 ||
+|| A: 857c | B: 108 || Sum: f81a7e0 | Correct: f81a7e0 || Equals: 1 ||
+|| A: c826 | B: ca1 || Sum: 0bc47e6 | Correct: 0bc47e6 || Equals: 1 ||
+|| A: 6a5b | B: e43 || Sum: f471fd1 | Correct: f471fd1 || Equals: 1 ||
+|| A: f180 | B: 301 || Sum: fd47180 | Correct: fd47180 || Equals: 1 ||
+|| A: f40d | B: 015 || Sum: fff0511 | Correct: fff0511 || Equals: 1 ||
+|| A: 18a6 | B: 577 || Sum: 086b32a | Correct: 086b32a || Equals: 1 ||
+|| A: fb4f | B: 1d2 || Sum: ff775ce | Correct: ff775ce || Equals: 1 ||
+|| A: 8fe6 | B: 6e1 || Sum: cfcdd26 | Correct: cfcdd26 || Equals: 1 ||
+|| A: f1c3 | B: 5a6 || Sum: faf9372 | Correct: faf9372 || Equals: 1 ||
+|| A: 3ce7 | B: 034 || Sum: 00c5eec | Correct: 00c5eec || Equals: 1 ||
+|| A: abe3 | B: f31 || Sum: 0440373 | Correct: 0440373 || Equals: 1 ||
+|| A: 738f | B: 543 || Sum: 260096d | Correct: 260096d || Equals: 1 ||
+|| A: 99f1 | B: 6cd || Sum: d49ebfd | Correct: d49ebfd || Equals: 1 ||
+|| A: f699 | B: fc8 || Sum: 0020e88 | Correct: 0020e88 || Equals: 1 ||
+|| A: d211 | B: 1f0 || Sum: fa700f0 | Correct: fa700f0 || Equals: 1 ||
+|| A: e5b4 | B: 987 || Sum: 0aa35ec | Correct: 0aa35ec || Equals: 1 ||
+|| A: 0160 | B: 9f4 || Sum: ff7af80 | Correct: ff7af80 || Equals: 1 ||
+|| A: adb6 | B: 227 || Sum: f4ee2ba | Correct: f4ee2ba || Equals: 1 ||
+|| A: ac5b | B: 717 || Sum: daef92d | Correct: daef92d || Equals: 1 ||
+|| A: f5d3 | B: 022 || Sum: ffea606 | Correct: ffea606 || Equals: 1 ||
+|| A: 8a8f | B: a1a || Sum: 2b4b886 | Correct: 2b4b886 || Equals: 1 ||
+|| A: db91 | B: d19 || Sum: 069be29 | Correct: 069be29 || Equals: 1 ||
+|| A: f766 | B: c9a || Sum: 01d3b5c | Correct: 01d3b5c || Equals: 1 ||
+|| A: 74ba | B: acd || Sum: da11cf2 | Correct: da11cf2 || Equals: 1 ||
+|| A: bb0e | B: 7cc || Sum: de67128 | Correct: de67128 || Equals: 1 ||
+|| A: 94c7 | B: a8f || Sum: 2477129 | Correct: 2477129 || Equals: 1 ||
+|| A: cb95 | B: 3ab || Sum: f3fbb87 | Correct: f3fbb87 || Equals: 1 ||
+|| A: 5cbb | B: ca6 || Sum: ec93542 | Correct: ec93542 || Equals: 1 ||
+|| A: dd85 | B: 57a || Sum: f432a62 | Correct: f432a62 || Equals: 1 ||
+|| A: ef8f | B: a06 || Sum: 062435a | Correct: 062435a || Equals: 1 ||
+|| A: bfb2 | B: 85d || Sum: 1eb13aa | Correct: 1eb13aa || Equals: 1 ||
+|| A: a980 | B: e4e || Sum: 092a500 | Correct: 092a500 || Equals: 1 ||
+|| A: 58eb | B: 1b8 || Sum: 098d3e8 | Correct: 098d3e8 || Equals: 1 ||
+|| A: 20f1 | B: 520 || Sum: 0a8d320 | Correct: 0a8d320 || Equals: 1 ||
+|| A: 9dd8 | B: e9d || Sum: 0881d78 | Correct: 0881d78 || Equals: 1 ||
+|| A: 50ab | B: cd7 || Sum: f01139d | Correct: f01139d || Equals: 1 ||
+|| A: b156 | B: ff9 || Sum: 00226a6 | Correct: 00226a6 || Equals: 1 ||
+|| A: aec3 | B: 4d5 || Sum: e77743f | Correct: e77743f || Equals: 1 ||
+|| A: f05c | B: dce || Sum: 0225608 | Correct: 0225608 || Equals: 1 ||
+|| A: 9d64 | B: 0de || Sum: faa7cb8 | Correct: faa7cb8 || Equals: 1 ||
+|| A: 3994 | B: b1e || Sum: ee6db58 | Correct: ee6db58 || Equals: 1 ||
+|| A: fbab | B: 350 || Sum: ff1a670 | Correct: ff1a670 || Equals: 1 ||
+|| A: c0b7 | B: 3d6 || Sum: f0d3dfa | Correct: f0d3dfa || Equals: 1 ||
+|| A: 211b | B: 6e2 || Sum: 0e3dbd6 | Correct: 0e3dbd6 || Equals: 1 ||
+|| A: 82ba | B: c2f || Sum: 1de1826 | Correct: 1de1826 || Equals: 1 ||
+|| A: a615 | B: 68a || Sum: db40552 | Correct: db40552 || Equals: 1 ||
+|| A: e376 | B: b4f || Sum: 085e36a | Correct: 085e36a || Equals: 1 ||
+|| A: c6f9 | B: 2fa || Sum: f56412a | Correct: f56412a || Equals: 1 ||
+|| A: 516c | B: 58a || Sum: 1c30038 | Correct: 1c30038 || Equals: 1 ||
+|| A: 4737 | B: f1a || Sum: fc00496 | Correct: fc00496 || Equals: 1 ||
+|| A: a7c2 | B: 9fe || Sum: 212247c | Correct: 212247c || Equals: 1 ||
+|| A: b72a | B: 8f9 || Sum: 1ffd7da | Correct: 1ffd7da || Equals: 1 ||
+|| A: 8a02 | B: e70 || Sum: 0b85ce0 | Correct: 0b85ce0 || Equals: 1 ||
+|| A: 2ad5 | B: 17d || Sum: 03fbf01 | Correct: 03fbf01 || Equals: 1 ||
+|| A: a9f6 | B: fbf || Sum: 015d88a | Correct: 015d88a || Equals: 1 ||
+|| A: 8300 | B: 34e || Sum: e62ea00 | Correct: e62ea00 || Equals: 1 ||
+|| A: 6f75 | B: 65a || Sum: 2c3ed22 | Correct: 2c3ed22 || Equals: 1 ||
+|| A: eb2f | B: c36 || Sum: 04edfea | Correct: 04edfea || Equals: 1 ||
+|| A: 38c0 | B: ca4 || Sum: f415b00 | Correct: f415b00 || Equals: 1 ||
+|| A: 8c20 | B: 7b4 || Sum: c836680 | Correct: c836680 || Equals: 1 ||
+|| A: 6e6b | B: a7b || Sum: d9e8b69 | Correct: d9e8b69 || Equals: 1 ||
+|| A: 2737 | B: f6d || Sum: fe97b6b | Correct: fe97b6b || Equals: 1 ||
+|| A: e35d | B: fda || Sum: 0044032 | Correct: 0044032 || Equals: 1 ||
+|| A: b570 | B: 317 || Sum: f199d10 | Correct: f199d10 || Equals: 1 ||
+|| A: b83e | B: b09 || Sum: 164442e | Correct: 164442e || Equals: 1 ||
+|| A: bf31 | B: c9a || Sum: 0dc3f7a | Correct: 0dc3f7a || Equals: 1 ||
+|| A: 0865 | B: 114 || Sum: 0090ce4 | Correct: 0090ce4 || Equals: 1 ||
+|| A: 8313 | B: 7c1 || Sum: c375653 | Correct: c375653 || Equals: 1 ||
+|| A: 7ee7 | B: 6be || Sum: 3579972 | Correct: 3579972 || Equals: 1 ||
+|| A: e193 | B: 714 || Sum: f28a47c | Correct: f28a47c || Equals: 1 ||
+|| A: 219f | B: 3f9 || Sum: 08590a7 | Correct: 08590a7 || Equals: 1 ||
+|| A: 3ff1 | B: b82 || Sum: ee0c362 | Correct: ee0c362 || Equals: 1 ||
+|| A: 7769 | B: d20 || Sum: ea8b220 | Correct: ea8b220 || Equals: 1 ||
+|| A: 090f | B: cb7 || Sum: fe23db9 | Correct: fe23db9 || Equals: 1 ||
+|| A: f96b | B: c86 || Sum: 016e202 | Correct: 016e202 || Equals: 1 ||
+|| A: 95d3 | B: 51b || Sum: de1ec41 | Correct: de1ec41 || Equals: 1 ||
+|| A: 2f98 | B: cc6 || Sum: f666f90 | Correct: f666f90 || Equals: 1 ||
+|| A: 9e67 | B: 196 || Sum: f65375a | Correct: f65375a || Equals: 1 ||
+|| A: 63ce | B: 1a9 || Sum: 0a5b0fe | Correct: 0a5b0fe || Equals: 1 ||
+|| A: 03cf | B: 410 || Sum: 00f78f0 | Correct: 00f78f0 || Equals: 1 ||
+|| A: aeeb | B: fdb || Sum: 00bb809 | Correct: 00bb809 || Equals: 1 ||
+|| A: 91ac | B: 339 || Sum: e9c734c | Correct: e9c734c || Equals: 1 ||
+|| A: d80d | B: 7ab || Sum: ecdabaf | Correct: ecdabaf || Equals: 1 ||
+|| A: 88f0 | B: 9bf || Sum: 2e89b10 | Correct: 2e89b10 || Equals: 1 ||
+|| A: 2bfa | B: 896 || Sum: eb9f47c | Correct: eb9f47c || Equals: 1 ||
+|| A: 027c | B: 1cc || Sum: 00476d0 | Correct: 00476d0 || Equals: 1 ||
+|| A: 46c9 | B: d86 || Sum: f50b236 | Correct: f50b236 || Equals: 1 ||
+|| A: 8e72 | B: ee3 || Sum: 07e6b16 | Correct: 07e6b16 || Equals: 1 ||
+|| A: de41 | B: 179 || Sum: fce4db9 | Correct: fce4db9 || Equals: 1 ||
+|| A: 9497 | B: 73e || Sum: cf61d92 | Correct: cf61d92 || Equals: 1 ||
+|| A: 1c7c | B: b57 || Sum: f7b4224 | Correct: f7b4224 || Equals: 1 ||
+|| A: 0cfd | B: 233 || Sum: 01c9067 | Correct: 01c9067 || Equals: 1 ||
+|| A: 3077 | B: 4df || Sum: 0ec13a9 | Correct: 0ec13a9 || Equals: 1 ||
+|| A: 760d | B: 4dd || Sum: 23e1d39 | Correct: 23e1d39 || Equals: 1 ||
+|| A: 50bd | B: b4c || Sum: e84471c | Correct: e84471c || Equals: 1 ||
+|| A: 1aa2 | B: fe0 || Sum: ffcabc0 | Correct: ffcabc0 || Equals: 1 ||
+|| A: af99 | B: 078 || Sum: fda4fb8 | Correct: fda4fb8 || Equals: 1 ||
+|| A: 611a | B: f4b || Sum: fbb589e | Correct: fbb589e || Equals: 1 ||
+|| A: 3ab8 | B: c09 || Sum: f173078 | Correct: f173078 || Equals: 1 ||
+|| A: f57d | B: 351 || Sum: fdd238d | Correct: fdd238d || Equals: 1 ||
+|| A: 93c5 | B: 16a || Sum: f66f492 | Correct: f66f492 || Equals: 1 ||
+|| A: 4716 | B: 702 || Sum: 1f2282c | Correct: 1f2282c || Equals: 1 ||
+|| A: 6082 | B: 447 || Sum: 19ccc0e | Correct: 19ccc0e || Equals: 1 ||
+|| A: 9739 | B: f41 || Sum: 04e2c79 | Correct: 04e2c79 || Equals: 1 ||
+|| A: 8e58 | B: 1b9 || Sum: f3c3598 | Correct: f3c3598 || Equals: 1 ||
+|| A: dd27 | B: fa5 || Sum: 00c6323 | Correct: 00c6323 || Equals: 1 ||
+|| A: 1ff6 | B: 2e9 || Sum: 05d02e6 | Correct: 05d02e6 || Equals: 1 ||
+|| A: 99ee | B: 31c || Sum: ec2a008 | Correct: ec2a008 || Equals: 1 ||
+|| A: e1f1 | B: 6f6 || Sum: f2ec396 | Correct: f2ec396 || Equals: 1 ||
+|| A: 905f | B: 34f || Sum: e8eaa51 | Correct: e8eaa51 || Equals: 1 ||
+|| A: d14c | B: 70c || Sum: eb6e390 | Correct: eb6e390 || Equals: 1 ||
+|| A: 8d53 | B: 82e || Sum: 380ccea | Correct: 380ccea || Equals: 1 ||
+|| A: e05e | B: aa5 || Sum: 0a96896 | Correct: 0a96896 || Equals: 1 ||
+|| A: fb3b | B: 2b9 || Sum: ff303a3 | Correct: ff303a3 || Equals: 1 ||
+|| A: 1582 | B: 08f || Sum: 00c039e | Correct: 00c039e || Equals: 1 ||
+|| A: 8eac | B: 211 || Sum: f15d16c | Correct: f15d16c || Equals: 1 ||
+|| A: 2c9b | B: f94 || Sum: fed2e9c | Correct: fed2e9c || Equals: 1 ||
+|| A: bab4 | B: 429 || Sum: edfb6d4 | Correct: edfb6d4 || Equals: 1 ||
+|| A: 0a31 | B: 38f || Sum: 024445f | Correct: 024445f || Equals: 1 ||
+|| A: d187 | B: fa3 || Sum: 010e1f5 | Correct: 010e1f5 || Equals: 1 ||
+|| A: ce51 | B: 7cf || Sum: e7c0a7f | Correct: e7c0a7f || Equals: 1 ||
+|| A: 26aa | B: 527 || Sum: 0c735e6 | Correct: 0c735e6 || Equals: 1 ||
+|| A: 440b | B: 815 || Sum: de53ce7 | Correct: de53ce7 || Equals: 1 ||
+|| A: e558 | B: 707 || Sum: f44ad68 | Correct: f44ad68 || Equals: 1 ||
+|| A: 9fb6 | B: bff || Sum: 181884a | Correct: 181884a || Equals: 1 ||
+|| A: 3ae0 | B: d5d || Sum: f64c360 | Correct: f64c360 || Equals: 1 ||
+|| A: 0048 | B: 70f || Sum: 001fc38 | Correct: 001fc38 || Equals: 1 ||
+|| A: 819b | B: a66 || Sum: 2c401c2 | Correct: 2c401c2 || Equals: 1 ||
+|| A: 35f7 | B: 7f3 || Sum: 1acfa75 | Correct: 1acfa75 || Equals: 1 ||
+|| A: 334e | B: 75f || Sum: 17a2bf2 | Correct: 17a2bf2 || Equals: 1 ||
+|| A: 8d57 | B: e3c || Sum: 0ca7264 | Correct: 0ca7264 || Equals: 1 ||
+|| A: 1e26 | B: a37 || Sum: f51962a | Correct: f51962a || Equals: 1 ||
+|| A: d6d0 | B: 169 || Sum: fc5eb50 | Correct: fc5eb50 || Equals: 1 ||
+|| A: 2218 | B: e56 || Sum: fc74410 | Correct: fc74410 || Equals: 1 ||
+|| A: 31d5 | B: fe1 || Sum: ff9f735 | Correct: ff9f735 || Equals: 1 ||
+|| A: f71e | B: 0d7 || Sum: ff88a32 | Correct: ff88a32 || Equals: 1 ||
+|| A: ea1d | B: 8c2 || Sum: 09e81fa | Correct: 09e81fa || Equals: 1 ||
+|| A: 0ab6 | B: 290 || Sum: 01b7260 | Correct: 01b7260 || Equals: 1 ||
+|| A: 0cec | B: cc1 || Sum: fd60dec | Correct: fd60dec || Equals: 1 ||
+|| A: 0a9d | B: 613 || Sum: 04077a7 | Correct: 04077a7 || Equals: 1 ||
+|| A: f05e | B: 0b8 || Sum: ff4c390 | Correct: ff4c390 || Equals: 1 ||
+|| A: 8f87 | B: 931 || Sum: 2fdc7d7 | Correct: 2fdc7d7 || Equals: 1 ||
+|| A: 5ada | B: 8d5 || Sum: d74c762 | Correct: d74c762 || Equals: 1 ||
+|| A: 282a | B: 91b || Sum: eeb166e | Correct: eeb166e || Equals: 1 ||
+|| A: 8523 | B: bb5 || Sum: 20f72bf | Correct: 20f72bf || Equals: 1 ||
+|| A: ac33 | B: f51 || Sum: 0394923 | Correct: 0394923 || Equals: 1 ||
+|| A: 156a | B: 6c2 || Sum: 090b654 | Correct: 090b654 || Equals: 1 ||
+|| A: faac | B: 73f || Sum: fd96454 | Correct: fd96454 || Equals: 1 ||
+|| A: 7aa2 | B: c20 || Sum: e24cc40 | Correct: e24cc40 || Equals: 1 ||
+|| A: 082b | B: d02 || Sum: fe78f56 | Correct: fe78f56 || Equals: 1 ||
+|| A: c853 | B: d5b || Sum: 0933c81 | Correct: 0933c81 || Equals: 1 ||
+|| A: 5e4b | B: 8da || Sum: d5df3de | Correct: d5df3de || Equals: 1 ||
+|| A: d3e5 | B: c5c || Sum: 0a0924c | Correct: 0a0924c || Equals: 1 ||
+|| A: f358 | B: d33 || Sum: 0237288 | Correct: 0237288 || Equals: 1 ||
+|| A: 653e | B: 22e || Sum: 0dcad24 | Correct: 0dcad24 || Equals: 1 ||
+|| A: 2f5b | B: b0b || Sum: f1541e9 | Correct: f1541e9 || Equals: 1 ||
+|| A: 67db | B: 37a || Sum: 1690f5e | Correct: 1690f5e || Equals: 1 ||
+|| A: 9249 | B: f88 || Sum: 0336dc8 | Correct: 0336dc8 || Equals: 1 ||
+|| A: 7583 | B: 61c || Sum: 2cdec54 | Correct: 2cdec54 || Equals: 1 ||
+|| A: 9c7f | B: 8ea || Sum: 2c11416 | Correct: 2c11416 || Equals: 1 ||
+|| A: b4e9 | B: d65 || Sum: 0c3a4ed | Correct: 0c3a4ed || Equals: 1 ||
+|| A: c17b | B: 1cf || Sum: f8eed75 | Correct: f8eed75 || Equals: 1 ||
+|| A: 94ac | B: 586 || Sum: daf2e08 | Correct: daf2e08 || Equals: 1 ||
+|| A: 5ca5 | B: d86 || Sum: f1a8f5e | Correct: f1a8f5e || Equals: 1 ||
+|| A: 1026 | B: 2b1 || Sum: 02b7646 | Correct: 02b7646 || Equals: 1 ||
+|| A: aa1a | B: 31f || Sum: ef3e726 | Correct: ef3e726 || Equals: 1 ||
+|| A: 03a8 | B: 7df || Sum: 01cc758 | Correct: 01cc758 || Equals: 1 ||
+|| A: fda1 | B: 7d1 || Sum: fed7771 | Correct: fed7771 || Equals: 1 ||
+|| A: 0ff6 | B: 807 || Sum: f80bfba | Correct: f80bfba || Equals: 1 ||
+|| A: c1cb | B: ef6 || Sum: 040a312 | Correct: 040a312 || Equals: 1 ||
+|| A: ec7e | B: e2a || Sum: 023d0ac | Correct: 023d0ac || Equals: 1 ||
+|| A: 5d1a | B: 6e4 || Sum: 2818728 | Correct: 2818728 || Equals: 1 ||
+|| A: b531 | B: 5e7 || Sum: e467437 | Correct: e467437 || Equals: 1 ||
+|| A: 2cbe | B: 741 || Sum: 1448e3e | Correct: 1448e3e || Equals: 1 ||
+|| A: c1fa | B: 3e6 || Sum: f0e349c | Correct: f0e349c || Equals: 1 ||
+|| A: 8bb1 | B: 128 || Sum: f7984a8 | Correct: f7984a8 || Equals: 1 ||
+|| A: 7007 | B: df8 || Sum: f1c71c8 | Correct: f1c71c8 || Equals: 1 ||
+|| A: 9388 | B: 2b4 || Sum: edacba0 | Correct: edacba0 || Equals: 1 ||
+|| A: 6b05 | B: 6db || Sum: 2ddab47 | Correct: 2ddab47 || Equals: 1 ||
+|| A: f422 | B: 819 || Sum: 05dc752 | Correct: 05dc752 || Equals: 1 ||
+|| A: 76fa | B: f40 || Sum: fa6c480 | Correct: fa6c480 || Equals: 1 ||
+|| A: d474 | B: e05 || Sum: 0563e44 | Correct: 0563e44 || Equals: 1 ||
+|| A: 6ecd | B: 78b || Sum: 343c44f | Correct: 343c44f || Equals: 1 ||
+|| A: 90bc | B: 4f9 || Sum: dd6b6dc | Correct: dd6b6dc || Equals: 1 ||
+|| A: 3c36 | B: c9e || Sum: f345154 | Correct: f345154 || Equals: 1 ||
+|| A: fcda | B: 7a6 || Sum: fe7eb5c | Correct: fe7eb5c || Equals: 1 ||
+|| A: 9c4e | B: d09 || Sum: 12794be | Correct: 12794be || Equals: 1 ||
+|| A: de39 | B: c29 || Sum: 081b321 | Correct: 081b321 || Equals: 1 ||
+|| A: 48c8 | B: ea5 || Sum: f9d58e8 | Correct: f9d58e8 || Equals: 1 ||
+|| A: 3ddc | B: 164 || Sum: 05605f0 | Correct: 05605f0 || Equals: 1 ||
+|| A: 9d5c | B: fd5 || Sum: 010918c | Correct: 010918c || Equals: 1 ||
+|| A: bae2 | B: c88 || Sum: 0efc010 | Correct: 0efc010 || Equals: 1 ||
+|| A: 645f | B: 266 || Sum: 0f0bbda | Correct: 0f0bbda || Equals: 1 ||
+|| A: 88c7 | B: 8d9 || Sum: 354b8af | Correct: 354b8af || Equals: 1 ||
+|| A: 3caf | B: 846 || Sum: e2b1fda | Correct: e2b1fda || Equals: 1 ||
+|| A: 763e | B: 615 || Sum: 2cf2716 | Correct: 2cf2716 || Equals: 1 ||
+|| A: f33c | B: 3f0 || Sum: fcdbc40 | Correct: fcdbc40 || Equals: 1 ||
+|| A: 9599 | B: 3bb || Sum: e7311c3 | Correct: e7311c3 || Equals: 1 ||
+|| A: 1f73 | B: e24 || Sum: fc5862c | Correct: fc5862c || Equals: 1 ||
+|| A: 08df | B: 33a || Sum: 01c9f86 | Correct: 01c9f86 || Equals: 1 ||
+|| A: 39d2 | B: 8da || Sum: e62acd4 | Correct: e62acd4 || Equals: 1 ||
+|| A: 7dba | B: 371 || Sum: 1b0ad1a | Correct: 1b0ad1a || Equals: 1 ||
+|| A: befc | B: 5b3 || Sum: e8d7634 | Correct: e8d7634 || Equals: 1 ||
+|| A: e7ea | B: 50b || Sum: f86890e | Correct: f86890e || Equals: 1 ||
