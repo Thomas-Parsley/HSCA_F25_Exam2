@@ -1,0 +1,71 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/tpars/OneDrive/Documents/GitHub/HSCA_F25_Exam2/Prob4
+vReciprocalLUT
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1765082869
+!i10b 1
+!s100 aFP002@iI;a_9DZBN^QK]0
+II3@GWidSWEf5o@XLPK3zG0
+S1
+R1
+w1765082299
+8ReciprocalLUT.sv
+FReciprocalLUT.sv
+!i122 3
+L0 1 33
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3;73
+r1
+!s85 0
+31
+Z6 !s108 1765082869.000000
+Z7 !s107 ReciprocalLUT.sv|ReciprocalLUT_tb.sv|
+Z8 !s90 ReciprocalLUT_tb.sv|ReciprocalLUT.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+n@reciprocal@l@u@t
+vtestbench
+R2
+R3
+!i10b 1
+!s100 j_dA_>k]S^ckkahUhezEZ2
+ILTZ:@UeZ7QEfV@EF;AL<D3
+S1
+R1
+w1765082774
+8ReciprocalLUT_tb.sv
+FReciprocalLUT_tb.sv
+!i122 3
+L0 1 54
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+Tworkopt
+R3
+VgPG6k4mK9a<NZ^6R]JUV;0
+04 9 4 work testbench fast 0
+!s124 OEM100
+o+acc
+R10
+nworkopt
+OL;O;2021.3;73
